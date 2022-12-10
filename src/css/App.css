@@ -1,0 +1,49 @@
+.normal{
+  background-color: #313131;
+  color: white;
+}
+.style1{
+  background-color: #9f9f9f;
+  color: #000000;
+}
+.style2{
+  background-color: #0022ff;
+  color: #ffffff;
+}
+.galery{
+  background-color: #313131;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.good{
+  margin: 5px 60px;
+}
+.cardImage{
+  border-radius: 30px;
+  width: 300px;
+  /* height: 300px; */
+}
+.App{
+  background-color: #313131;
+  color: white;
+}
+.button {
+  display: inline;
+  width: 150px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 5px;
+  font-size: 11pt;
+  background-color: #0022ff;
+  color: white;
+  border-radius: 5px;
+}
+.img_btn{
+  background-color: #0022ff;
+  color: white;
+  border-radius: 5px;
+  font-size: 10pt;
+}
